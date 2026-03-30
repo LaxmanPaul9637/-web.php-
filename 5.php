@@ -6,7 +6,7 @@ $inactive_time=time()-$_SESSION['last_activity'];
 if($inactive_time>$timeout){
     session_unset();
 	session_destroy();
-	echo"Session epired due to inactivity.";
+	echo"Session expired due to inactivity.";
 	exit();
 	}
 }
