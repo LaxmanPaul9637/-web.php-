@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+  <player_info>
+    <player>Virat Kohli</player>
+    <runs>120</runs>
+    <wickets>5</wickets>
+  </player_info>
+  <player_info>
+    <player>Rohit Sharma</player>
+    <runs>95</runs>
+    <wickets>2</wickets>
+  </player_info>
+  <player_info>
+    <player>KL Rahul</player>
+    <runs>150</runs>
+    <wickets>1</wickets>
+  </player_info>
+  <player_info>
+    <player>Hardik Pandya</player>
+    <runs>80</runs>
+    <wickets>10</wickets>
+  </player_info>
+  <player_info>
+    <player>Shubman Gill</player>
+    <runs>130</runs>
+    <wickets>0</wickets>
+  </player_info>
+</cricket>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subjects>
+  <subject>
+    <subject_code>BCA 245</subject_code>
+    <subject_name>Web Technology Laboratory</subject_name>
+  </subject>
+  <subject>
+    <subject_code>BCA 101</subject_code>
+    <subject_name>Programming in C</subject_name>
+  </subject>
+  <subject>
+    <subject_code>BCA 202</subject_code>
+    <subject_name>Data Structures</subject_name>
+  </subject>
+  <subject>
+    <subject_code>BCA 303</subject_code>
+    <subject_name>Database Management</subject_name>
+  </subject>
+  <subject>
+    <subject_code>BCA 404</subject_code>
+    <subject_name>Operating System</subject_name>
+  </subject>
+</subjects>

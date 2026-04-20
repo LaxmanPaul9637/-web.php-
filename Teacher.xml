@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Department>
+  <ComputerScience>
+    <Teacher>
+      <TeacherName>Priya Shinde</TeacherName>
+      <Qualification>NET</Qualification>
+      <SubjectTaught>Data Structures</SubjectTaught>
+      <Experience>5 years</Experience>
+    </Teacher>
+    <Teacher>
+      <TeacherName>Rahul Patil</TeacherName>
+      <Qualification>NET</Qualification>
+      <SubjectTaught>Machine Learning</SubjectTaught>
+      <Experience>4 years</Experience>
+    </Teacher>
+    <Teacher>
+      <TeacherName>Sneha Joshi</TeacherName>
+      <Qualification>NET</Qualification>
+      <SubjectTaught>Operating System</SubjectTaught>
+      <Experience>6 years</Experience>
+    </Teacher>
+    <Teacher>
+      <TeacherName>Amit Deshmukh</TeacherName>
+      <Qualification>NET</Qualification>
+      <SubjectTaught>Computer&#13;
+Networks</SubjectTaught>
+      <Experience>8 years</Experience>
+    </Teacher>
+  </ComputerScience>
+</Department>
